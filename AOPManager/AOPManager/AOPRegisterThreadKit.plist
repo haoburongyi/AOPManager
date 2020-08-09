@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ViewController</key>
+	<array>
+		<string>registerViewController</string>
+		<string>registerViewController1</string>
+	</array>
+	<key>AViewController</key>
+	<array>
+		<string>registerA</string>
+	</array>
+    <key>BViewController</key>
+    <array>
+        <string>registerB</string>
+    </array>
+    <key>CViewController</key>
+    <array>
+        <string>registerC</string>
+    </array>
+    <key>DViewController</key>
+    <array>
+        <string>registerD</string>
+    </array>
+    <key>EViewController</key>
+    <array>
+        <string>registerE</string>
+    </array>
+</dict>
+</plist>
